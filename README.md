@@ -14,8 +14,3 @@ E to pick
 Left Mouse Button to Throw
 
 F and R to trigger certain actions
-
-
-```{r}
-knitr::include_url("https://www.youtube.com/embed/9bZkp7q19f0")
-```
